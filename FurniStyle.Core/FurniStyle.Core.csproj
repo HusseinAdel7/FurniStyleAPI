@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="IServices\" />
-    <Folder Include="IUnitOfWork\" />
     <Folder Include="ISpecifications\" />
   </ItemGroup>
 
