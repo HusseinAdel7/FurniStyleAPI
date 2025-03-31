@@ -1,0 +1,13 @@
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\bin\Debug\net8.0\FurniStyle.Core.deps.json
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\bin\Debug\net8.0\FurniStyle.Core.dll
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\bin\Debug\net8.0\FurniStyle.Core.pdb
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.AssemblyInfoInputs.cache
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.AssemblyInfo.cs
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.csproj.CoreCompileInputs.cache
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.dll
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\refint\FurniStyle.Core.dll
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.pdb
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\ref\FurniStyle.Core.dll
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.sourcelink.json
+E:\My Projects\FurniStyle\FurniStyle BackEnd\FurniStyle\FurniStyle.Core\obj\Debug\net8.0\FurniStyle.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,5172 @@
+{
+  "Version": 1,
+  "ManifestType": "Publish",
+  "Endpoints": [
+    {
+      "Route": "images/furnis/product_1.jpg",
+      "AssetFile": "images/furnis/product_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_1.m8imzhc4c7.jpg",
+      "AssetFile": "images/furnis/product_1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8imzhc4c7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_1.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_10.jpg",
+      "AssetFile": "images/furnis/product_10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_10.psg5e4uc4x.jpg",
+      "AssetFile": "images/furnis/product_10.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "psg5e4uc4x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_10.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_11.jpg",
+      "AssetFile": "images/furnis/product_11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_11.qc005b7szx.jpg",
+      "AssetFile": "images/furnis/product_11.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qc005b7szx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_11.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_12.jpg",
+      "AssetFile": "images/furnis/product_12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_12.qc005b7szx.jpg",
+      "AssetFile": "images/furnis/product_12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13754"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qc005b7szx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yqJUSdfDjp19/XMV7HTT0H96yw5a63cfKLdkO0kwEF0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_12.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_13.jpg",
+      "AssetFile": "images/furnis/product_13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_13.nav1ig2my6.jpg",
+      "AssetFile": "images/furnis/product_13.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nav1ig2my6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_13.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_14.jpg",
+      "AssetFile": "images/furnis/product_14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_14.nav1ig2my6.jpg",
+      "AssetFile": "images/furnis/product_14.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8220"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nav1ig2my6"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXm1Sc2qklD9ecysLAKtXKVY6S54sS5iHtha0dKFASk="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_14.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_15.jpg",
+      "AssetFile": "images/furnis/product_15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_15.os3ku0wevb.jpg",
+      "AssetFile": "images/furnis/product_15.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "os3ku0wevb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_15.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_16.jpg",
+      "AssetFile": "images/furnis/product_16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_16.os3ku0wevb.jpg",
+      "AssetFile": "images/furnis/product_16.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "os3ku0wevb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OK4TMGR+2cZY6736ag6Blf96uKgFQFsMZRt8CXNT9GA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_16.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_17.jpg",
+      "AssetFile": "images/furnis/product_17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_17.t5fmg74qmp.jpg",
+      "AssetFile": "images/furnis/product_17.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5fmg74qmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_17.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_18.jpg",
+      "AssetFile": "images/furnis/product_18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_18.t5fmg74qmp.jpg",
+      "AssetFile": "images/furnis/product_18.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38873"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t5fmg74qmp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUK9dU9gQzlnYpXHYFqxqXOV03pOVC1dQiIVlutkjcI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_18.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_19.jpg",
+      "AssetFile": "images/furnis/product_19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_19.zs918kxmgj.jpg",
+      "AssetFile": "images/furnis/product_19.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zs918kxmgj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_19.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_2.jpg",
+      "AssetFile": "images/furnis/product_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_2.m8imzhc4c7.jpg",
+      "AssetFile": "images/furnis/product_2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "62782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m8imzhc4c7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qxbcWWXEEtPh9FTX90DfGMgqFWU2zMnKcnQwuf7Cvc="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_2.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_20.jpg",
+      "AssetFile": "images/furnis/product_20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_20.zs918kxmgj.jpg",
+      "AssetFile": "images/furnis/product_20.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zs918kxmgj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HbBWfpDB/O+tAbQT46RkKoiJ6fqRcde0jRePSS0ZR+Y="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_20.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_21.56odazeda9.jpg",
+      "AssetFile": "images/furnis/product_21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56odazeda9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_21.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_21.jpg",
+      "AssetFile": "images/furnis/product_21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_22.56odazeda9.jpg",
+      "AssetFile": "images/furnis/product_22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56odazeda9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_22.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_22.jpg",
+      "AssetFile": "images/furnis/product_22.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_23.56odazeda9.jpg",
+      "AssetFile": "images/furnis/product_23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56odazeda9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_23.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_23.jpg",
+      "AssetFile": "images/furnis/product_23.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_24.56odazeda9.jpg",
+      "AssetFile": "images/furnis/product_24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "56odazeda9"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_24.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_24.jpg",
+      "AssetFile": "images/furnis/product_24.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nZG4briRcjR1EsR/ANjirGlXGb+rgm1R+o0/taLALJM="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_25.etmwad8kq8.jpg",
+      "AssetFile": "images/furnis/product_25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etmwad8kq8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_25.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_25.jpg",
+      "AssetFile": "images/furnis/product_25.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_26.etmwad8kq8.jpg",
+      "AssetFile": "images/furnis/product_26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etmwad8kq8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_26.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_26.jpg",
+      "AssetFile": "images/furnis/product_26.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_27.etmwad8kq8.jpg",
+      "AssetFile": "images/furnis/product_27.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etmwad8kq8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_27.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_27.jpg",
+      "AssetFile": "images/furnis/product_27.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_28.etmwad8kq8.jpg",
+      "AssetFile": "images/furnis/product_28.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etmwad8kq8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_28.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_28.jpg",
+      "AssetFile": "images/furnis/product_28.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100577"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fqZOTLYlsI7bwSyGHY97jXVr3btH+6lDnR+6L6RDo9o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_29.12vub1y82x.jpg",
+      "AssetFile": "images/furnis/product_29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12vub1y82x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_29.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_29.jpg",
+      "AssetFile": "images/furnis/product_29.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_3.jpg",
+      "AssetFile": "images/furnis/product_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_3.vohebm5qfq.jpg",
+      "AssetFile": "images/furnis/product_3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vohebm5qfq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_3.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_30.12vub1y82x.jpg",
+      "AssetFile": "images/furnis/product_30.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12vub1y82x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_30.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_30.jpg",
+      "AssetFile": "images/furnis/product_30.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_31.12vub1y82x.jpg",
+      "AssetFile": "images/furnis/product_31.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12vub1y82x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_31.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_31.jpg",
+      "AssetFile": "images/furnis/product_31.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_32.12vub1y82x.jpg",
+      "AssetFile": "images/furnis/product_32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12vub1y82x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_32.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_32.jpg",
+      "AssetFile": "images/furnis/product_32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uadCGLD8Z/sNmlRbHV6A81Mn7M35wLylr/fxl0SaAHo="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_33.ctxm364lda.jpg",
+      "AssetFile": "images/furnis/product_33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctxm364lda"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_33.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_33.jpg",
+      "AssetFile": "images/furnis/product_33.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_34.ctxm364lda.jpg",
+      "AssetFile": "images/furnis/product_34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctxm364lda"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_34.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_34.jpg",
+      "AssetFile": "images/furnis/product_34.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_35.ctxm364lda.jpg",
+      "AssetFile": "images/furnis/product_35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctxm364lda"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_35.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_35.jpg",
+      "AssetFile": "images/furnis/product_35.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_36.ctxm364lda.jpg",
+      "AssetFile": "images/furnis/product_36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ctxm364lda"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_36.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_36.jpg",
+      "AssetFile": "images/furnis/product_36.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UHDmGZQIM9qnVD8jU4SEl/d44wT2YSYbUgFyMs7JE7o="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_37.jpg",
+      "AssetFile": "images/furnis/product_37.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_37.pzpc9oao76.jpg",
+      "AssetFile": "images/furnis/product_37.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzpc9oao76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_37.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_38.jpg",
+      "AssetFile": "images/furnis/product_38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_38.pzpc9oao76.jpg",
+      "AssetFile": "images/furnis/product_38.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzpc9oao76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_38.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_39.jpg",
+      "AssetFile": "images/furnis/product_39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_39.pzpc9oao76.jpg",
+      "AssetFile": "images/furnis/product_39.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzpc9oao76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_39.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_4.jpg",
+      "AssetFile": "images/furnis/product_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_4.vohebm5qfq.jpg",
+      "AssetFile": "images/furnis/product_4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6309"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vohebm5qfq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DyRTZbRk7ANgdtP4Zcog/tGmeZ3HX79nrUY3wSU/lHs="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_4.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_40.jpg",
+      "AssetFile": "images/furnis/product_40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_40.pzpc9oao76.jpg",
+      "AssetFile": "images/furnis/product_40.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pzpc9oao76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0jVu0PStY6xohDomfXLIHF97IoNXqLWTXykyjLlFio="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_40.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_41.jpg",
+      "AssetFile": "images/furnis/product_41.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_41.smvb6h3o76.jpg",
+      "AssetFile": "images/furnis/product_41.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smvb6h3o76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_41.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_42.jpg",
+      "AssetFile": "images/furnis/product_42.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_42.smvb6h3o76.jpg",
+      "AssetFile": "images/furnis/product_42.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smvb6h3o76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_42.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_43.jpg",
+      "AssetFile": "images/furnis/product_43.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_43.smvb6h3o76.jpg",
+      "AssetFile": "images/furnis/product_43.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smvb6h3o76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_43.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_44.jpg",
+      "AssetFile": "images/furnis/product_44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_44.smvb6h3o76.jpg",
+      "AssetFile": "images/furnis/product_44.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "smvb6h3o76"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5E6pyFVNltkPUgyJsUuFwqa7ObqPtEHWXJ3s91cTo54="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_44.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_45.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_45.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_45.jpg",
+      "AssetFile": "images/furnis/product_45.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_46.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_46.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_46.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_46.jpg",
+      "AssetFile": "images/furnis/product_46.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_47.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_47.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_47.jpg",
+      "AssetFile": "images/furnis/product_47.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_48.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_48.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_48.jpg",
+      "AssetFile": "images/furnis/product_48.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_49.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_49.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_49.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_49.jpg",
+      "AssetFile": "images/furnis/product_49.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_5.6thnapy0yp.jpg",
+      "AssetFile": "images/furnis/product_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6thnapy0yp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_5.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_5.jpg",
+      "AssetFile": "images/furnis/product_5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_50.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_50.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_50.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_50.jpg",
+      "AssetFile": "images/furnis/product_50.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_51.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_51.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_51.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_51.jpg",
+      "AssetFile": "images/furnis/product_51.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_52.a6di798e6b.jpg",
+      "AssetFile": "images/furnis/product_52.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6di798e6b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_52.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_52.jpg",
+      "AssetFile": "images/furnis/product_52.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "82416"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mj7Cl2bW71lPn+VRxg0vMSWHYGFZCz3CxmckpWox/q4="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_53.jpg",
+      "AssetFile": "images/furnis/product_53.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_53.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_53.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_53.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_54.jpg",
+      "AssetFile": "images/furnis/product_54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_54.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_54.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_54.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_55.jpg",
+      "AssetFile": "images/furnis/product_55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_55.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_55.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_55.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_56.jpg",
+      "AssetFile": "images/furnis/product_56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_56.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_56.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_56.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_57.jpg",
+      "AssetFile": "images/furnis/product_57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_57.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_57.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_57.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_58.jpg",
+      "AssetFile": "images/furnis/product_58.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_58.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_58.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_58.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_59.jpg",
+      "AssetFile": "images/furnis/product_59.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_59.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_59.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_59.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_6.6thnapy0yp.jpg",
+      "AssetFile": "images/furnis/product_6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6thnapy0yp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_6.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_6.jpg",
+      "AssetFile": "images/furnis/product_6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ftg+jgbnvE3IVtA3rET8cpEP8Bm35hRyw9xxr3uNyGQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_60.jpg",
+      "AssetFile": "images/furnis/product_60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_60.lz7r8t1odj.jpg",
+      "AssetFile": "images/furnis/product_60.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108353"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lz7r8t1odj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MQ0jQrb47icJY+oa73hYnl57u+Vd1iIeSfU8YD9qEDg="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_60.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_7.b828aw1pnp.jpg",
+      "AssetFile": "images/furnis/product_7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b828aw1pnp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_7.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_7.jpg",
+      "AssetFile": "images/furnis/product_7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_8.b828aw1pnp.jpg",
+      "AssetFile": "images/furnis/product_8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b828aw1pnp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_8.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_8.jpg",
+      "AssetFile": "images/furnis/product_8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tSiXTVnVrYTvY6CzoXIwLoBu9Rr4ysiciWpYxFXtYog="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_9.jpg",
+      "AssetFile": "images/furnis/product_9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI="
+        }
+      ]
+    },
+    {
+      "Route": "images/furnis/product_9.psg5e4uc4x.jpg",
+      "AssetFile": "images/furnis/product_9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 20 Sep 2024 06:00:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "psg5e4uc4x"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SSJc1kbgN14SPBa1MVZSxX+LzZR0qruhO7xZhZw1ZJI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/furnis/product_9.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.au5smf4d6i.css",
+      "AssetFile": "swagger/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bgHlDtNij2Pi1iErXJPxddNSxUVA77lan29/3o525Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:26:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au5smf4d6i"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bgHlDtNij2Pi1iErXJPxddNSxUVA77lan29/3o525Vs="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/custom.css"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.css",
+      "AssetFile": "swagger/custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1526"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bgHlDtNij2Pi1iErXJPxddNSxUVA77lan29/3o525Vs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:26:55 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bgHlDtNij2Pi1iErXJPxddNSxUVA77lan29/3o525Vs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.iwvxh0ybyq.js",
+      "AssetFile": "swagger/custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pk/N1lwxlDi2oImSbYPEy3GuPwUl6ESEpfEbWd2xc0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:26:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iwvxh0ybyq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pk/N1lwxlDi2oImSbYPEy3GuPwUl6ESEpfEbWd2xc0o="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/custom.js"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.js",
+      "AssetFile": "swagger/custom.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pk/N1lwxlDi2oImSbYPEy3GuPwUl6ESEpfEbWd2xc0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:26:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pk/N1lwxlDi2oImSbYPEy3GuPwUl6ESEpfEbWd2xc0o="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/logo.iljwp5yc8m.png",
+      "AssetFile": "swagger/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjjoAkLjPHZ8WsjOKueNnEQiMzcGiXBNXxytdYFzl44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:16:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iljwp5yc8m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjjoAkLjPHZ8WsjOKueNnEQiMzcGiXBNXxytdYFzl44="
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/logo.png"
+        }
+      ]
+    },
+    {
+      "Route": "swagger/logo.png",
+      "AssetFile": "swagger/logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NjjoAkLjPHZ8WsjOKueNnEQiMzcGiXBNXxytdYFzl44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 21 Feb 2025 08:16:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NjjoAkLjPHZ8WsjOKueNnEQiMzcGiXBNXxytdYFzl44="
+        }
+      ]
+    }
+  ]
+}

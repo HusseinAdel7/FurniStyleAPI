@@ -1,0 +1,277 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_1.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_1.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_10.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_10.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_11.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_11.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_12.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_12.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_13.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_13.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_14.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_14.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_15.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_15.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_16.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_16.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_17.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_17.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_18.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_18.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_19.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_19.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_2.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_2.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_20.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_20.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_21.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_21.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_22.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_22.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_23.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_23.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_24.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_24.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_25.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_25.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_26.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_26.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_27.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_27.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_28.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_28.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_29.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_29.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_3.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_3.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_30.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_30.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_31.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_31.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_32.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_32.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_33.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_33.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_34.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_34.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_35.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_35.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_36.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_36.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_37.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_37.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_38.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_38.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_39.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_39.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_4.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_4.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_40.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_40.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_41.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_41.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_42.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_42.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_43.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_43.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_44.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_44.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_45.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_45.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_46.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_46.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_47.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_47.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_48.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_48.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_49.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_49.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_5.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_5.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_50.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_50.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_51.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_51.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_52.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_52.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_53.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_53.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_54.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_54.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_55.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_55.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_56.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_56.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_57.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_57.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_58.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_58.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_59.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_59.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_6.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_6.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_60.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_60.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_7.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_7.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_8.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_8.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\images\\furnis\\product_9.jpg",
+      "PackagePath": "staticwebassets\\images\\furnis\\product_9.jpg"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\swagger\\custom.css",
+      "PackagePath": "staticwebassets\\swagger\\custom.css"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\swagger\\custom.js",
+      "PackagePath": "staticwebassets\\swagger\\custom.js"
+    },
+    {
+      "Id": "E:\\My Projects\\FurniStyle\\FurniStyle BackEnd\\FurniStyle\\FurniStyle.API\\wwwroot\\swagger\\logo.png",
+      "PackagePath": "staticwebassets\\swagger\\logo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurniStyle.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FurniStyle.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FurniStyle.API.props",
+      "PackagePath": "build\\FurniStyle.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FurniStyle.API.props",
+      "PackagePath": "buildMultiTargeting\\FurniStyle.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FurniStyle.API.props",
+      "PackagePath": "buildTransitive\\FurniStyle.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
